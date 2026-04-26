@@ -54,3 +54,10 @@ Nombre: Yananth Fajardo Moya
 Especialidad: Técnico en Fibra Óptica | Estudiante de Ciberseguridad
 
 GitHub: yfajardomoya11
+## 🔗 Part of Cybersecurity Ecosystem
+
+This project is part of a modular cybersecurity platform:
+
+- Network Security Tool  
+- Sentinel Watch  
+- Guardian Engine  
