@@ -3,7 +3,8 @@
 
 > **“Automated Defense. Total Network Control.”**
 
----
+---<img width="1024" height="1536" alt="Copilot_20260430_201950" src="https://github.com/user-attachments/assets/a0c7be78-af37-4c4f-9a44-269e1f9e05b0" />
+
 
 ## 🌐 Overview
 
